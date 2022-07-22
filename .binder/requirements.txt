@@ -4,4 +4,3 @@ ipympl
 ipywidgets
 scipy
 scikit-learn
-tensorflow
